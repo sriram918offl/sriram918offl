@@ -320,7 +320,7 @@ Delivered second-line technical support and incident management for enterprise c
 
 ---
 
-## GitHub Analytics
+<!--## GitHub Analytics
 
 <div align="center">
 
@@ -343,7 +343,8 @@ Delivered second-line technical support and incident management for enterprise c
 
 </div>
 
----
+---/*
+-->
 
 ## Contribution Activity
 
